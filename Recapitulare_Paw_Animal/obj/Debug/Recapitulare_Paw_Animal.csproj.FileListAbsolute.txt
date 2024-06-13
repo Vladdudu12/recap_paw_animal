@@ -1,0 +1,11 @@
+C:\Users\Vivi\source\repos\Recapitulare_Paw_Animal\Recapitulare_Paw_Animal\bin\Debug\Recapitulare_Paw_Animal.exe.config
+C:\Users\Vivi\source\repos\Recapitulare_Paw_Animal\Recapitulare_Paw_Animal\bin\Debug\Recapitulare_Paw_Animal.exe
+C:\Users\Vivi\source\repos\Recapitulare_Paw_Animal\Recapitulare_Paw_Animal\bin\Debug\Recapitulare_Paw_Animal.pdb
+C:\Users\Vivi\source\repos\Recapitulare_Paw_Animal\Recapitulare_Paw_Animal\obj\Debug\Recapitulare_Paw_Animal.csproj.AssemblyReference.cache
+C:\Users\Vivi\source\repos\Recapitulare_Paw_Animal\Recapitulare_Paw_Animal\obj\Debug\Recapitulare_Paw_Animal.Form1.resources
+C:\Users\Vivi\source\repos\Recapitulare_Paw_Animal\Recapitulare_Paw_Animal\obj\Debug\Recapitulare_Paw_Animal.Properties.Resources.resources
+C:\Users\Vivi\source\repos\Recapitulare_Paw_Animal\Recapitulare_Paw_Animal\obj\Debug\Recapitulare_Paw_Animal.csproj.GenerateResource.cache
+C:\Users\Vivi\source\repos\Recapitulare_Paw_Animal\Recapitulare_Paw_Animal\obj\Debug\Recapitulare_Paw_Animal.csproj.CoreCompileInputs.cache
+C:\Users\Vivi\source\repos\Recapitulare_Paw_Animal\Recapitulare_Paw_Animal\obj\Debug\Recapitulare_Paw_Animal.exe
+C:\Users\Vivi\source\repos\Recapitulare_Paw_Animal\Recapitulare_Paw_Animal\obj\Debug\Recapitulare_Paw_Animal.pdb
+C:\Users\Vivi\source\repos\Recapitulare_Paw_Animal\Recapitulare_Paw_Animal\obj\Debug\Recapitulare_Paw_Animal.Form2.resources
